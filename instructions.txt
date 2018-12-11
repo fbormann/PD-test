@@ -3,7 +3,9 @@ Instalação
 1. Instalar Python 3.6
 2. Instalar conda
 3. Instalar os seguintes packages:
-
+  3.1 Pandas
+  3.2 matplotlib
+  3.3 Jupyter notebook
 
 4. Instalar Pyspark na máquina, só seguir o tutorial acima, eu utilizei a versão de inicialização do jupyternotebook como driver do pyspark.
 https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f
